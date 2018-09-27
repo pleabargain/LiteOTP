@@ -1,9 +1,9 @@
 # LiteOTP
-LiteOTP is a Simpe OTP API Client,
+LiteOTP is a Simple One Time Password (OTP) API Client,
 powered By BlackHoleSecurity.
 
   - Simple to use
-  - Easy to development
+  - Easy to develop
   - Support PHP5
 
 ### New Features!
